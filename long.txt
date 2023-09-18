@@ -26,7 +26,7 @@ en_nz	en_nz
 en_pt	en_7s
 en_ud	en_ud
 eo_uy	eo
-esan	es_es
+esan	and
 es_ar	es_ar
 es_cl	es_cl
 es_es	es_es
@@ -90,7 +90,7 @@ nuk	nuk
 oc_fr	oc
 oj_ca	oji
 ovd	ovd_se
-pl_pl	pl_pl
+pl_pl	pl_PL
 pt_br	pt_br
 pt_pt	pt_pt
 qya_aa	qya_AA
@@ -114,7 +114,7 @@ tl_ph
 tr_tr	tr_tr
 tt_ru	tt_ru
 tzl_tzl	tzl
-uk_ua	uk_UA
+uk_ua	uk_ua
 val_es	ca-val_ES
 vec_it	vec_it
 vi_vn	vi_vn
