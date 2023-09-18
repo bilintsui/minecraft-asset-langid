@@ -115,4 +115,5 @@ vi_vn	vi_vn
 yi_de	yi
 yo_ng	yo_ng
 zh_cn	zh_cn
+zh_hk	zh_hk
 zh_tw	zh_tw
