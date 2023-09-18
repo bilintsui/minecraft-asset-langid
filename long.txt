@@ -1,6 +1,6 @@
 af_za	af_ZA
-ar_sa	ar
-ast_es	ast
+ar_sa	إنجليزية أمريكية
+ast_es	ast_es
 az_az	az_az
 bar	bar_de
 ba_ru	ba_ru
@@ -30,7 +30,7 @@ esan	an_es
 es_ar	es_ar
 es_cl	es_cl
 es_ec	es_ec
-es_es	es_es
+es_es	es_ES
 es_mx	es_mx
 es_uy	es_uy
 es_ve	es_ve
@@ -55,7 +55,7 @@ hi_in	hi_in
 hr_hr	hr_hr
 hu_hu	hu_HU
 hy_am	hy_AM
-id_id	en_us
+id_id	id_id
 ig_ng	ig_ng
 io_en	io
 isv	isv
