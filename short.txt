@@ -114,6 +114,7 @@ uk_ua
 val_es
 vec_it
 vi_vn
+yi_de
 yo_ng
 zh_cn
 zh_tw

@@ -90,7 +90,7 @@ oj_ca	oji
 ovd	ovd_se
 pl_pl	pl_PL
 pt_br	pt_br
-pt_pt	pt_PT
+pt_pt	pt_pt
 qya_aa	qya_AA
 ro_ro	ro_ro
 ru_ru	ru_ru
@@ -114,6 +114,7 @@ uk_ua	uk_ua
 val_es	ca-val_ES
 vec_it	vec_it
 vi_vn	vi_vn
+yi_de	yi_ny
 yo_ng	yo_ng
 zh_cn	zh_cn
 zh_tw	zh_tw
