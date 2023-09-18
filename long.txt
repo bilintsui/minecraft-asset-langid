@@ -12,7 +12,7 @@ bs_ba	bs_ba
 ca_es	ca
 cs_cz	cs_CZ
 cy_gb	cy_gb
-da_dk	en_us
+da_dk	da_DK
 de_at	de_at
 de_ch	de_ch
 de_de	de_de
@@ -26,7 +26,7 @@ en_nz	en_nz
 en_pt	en_7s
 en_ud	en_ud
 eo_uy	eo
-esan	and
+esan	an_es
 es_ar	es_ar
 es_cl	es_cl
 es_es	es_es
@@ -45,14 +45,14 @@ fr_fr	fr_fr
 fy_nl	fy_NL
 ga_ie	ga_IE
 gd_gb	gd
-gl_es	gl
+gl_es	gl_ES
 got_de	got
 gv_im	gv_IM
 haw_us	haw
 he_il	he_il
 hi_in	hi_in
 hr_hr	hr_hr
-hu_hu	en_us
+hu_hu	hu_HU
 hy_am	hy_AM
 id_id	en_us
 ig_ng	ig_ng
@@ -74,7 +74,7 @@ lb_lu	lb_lu
 li_li	li_NL
 lol_us	lol_aa
 lt_lt	lt_LT
-lv_lv	en_us
+lv_lv	lv_LV
 mi_nz	mi_NZ
 mk_mk	mk_mk
 mn_mn	mn_MN
@@ -87,7 +87,7 @@ nl_nl	nl_nl
 nn_no	nn_NO
 no_no	nb_NO
 nuk	nuk
-oc_fr	oc
+oc_fr	oc_FR
 oj_ca	oji
 ovd	ovd_se
 pl_pl	pl_PL
@@ -108,7 +108,7 @@ swg	alg_de
 sxu	sxu_de
 szl	szl_pl
 ta_in	ta_in
-th_th	อังกฤษอเมริกัน
+th_th	th_TH
 tlh_aa	tlh_AA
 tl_ph	
 tr_tr	tr_tr
