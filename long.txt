@@ -1,5 +1,5 @@
 af_za	af_ZA
-ar_sa	ar_ps
+ar_sa	ar_sa
 ast_es	ast_es
 az_az	az_az
 bar	bar_de
