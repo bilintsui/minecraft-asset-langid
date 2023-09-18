@@ -46,7 +46,7 @@ fr_fr	fr_fr
 fy_nl	fy_NL
 ga_ie	ga_IE
 gd_gb	gd
-gl_es	gl_ES
+gl_es	gl_es
 got_de	got
 gv_im	gv_IM
 haw_us	haw
