@@ -3,6 +3,7 @@ ar_sa	ar
 ast_es	ast
 az_az	az_az
 bar	bar_de
+ba_ru	ba_ru
 be_by	be_by
 bg_bg	bg_bg
 brb	brb_nl
@@ -44,6 +45,7 @@ fy_nl	fy_NL
 ga_ie	ga_IE
 gd_gb	gd
 gl_es	gl_ES
+got_de	got
 gv_im	gv_IM
 haw_us	haw
 he_il	he_il
