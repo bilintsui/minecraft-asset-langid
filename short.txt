@@ -2,6 +2,7 @@ af_za
 ar_sa
 ast_es
 az_az
+bar
 be_by
 bg_bg
 brb
@@ -59,6 +60,7 @@ ja_jp
 jbo_en
 kab_kab
 ka_ge
+kk_kz
 kn_in
 ko_kr
 ksh

@@ -2,6 +2,7 @@ af_za	af_ZA
 ar_sa	ar
 ast_es	ast_ES
 az_az	az_az
+bar	bar_de
 be_by	be_by
 bg_bg	bg_bg
 brb	brb_nl
@@ -59,6 +60,7 @@ ja_jp	ja_jp
 jbo_en	jbo
 kab_kab	kab_dz
 ka_ge	ka_GE
+kk_kz	kk_kz
 kn_in	kn_in
 ko_kr	ko_kr
 ksh	ksh_de
@@ -70,7 +72,7 @@ lol_us	lol_aa
 lt_lt	lt_LT
 lv_lv	lv_LV
 mi_nz	mi_NZ
-mk_mk	mk_MK
+mk_mk	mk_mk
 mn_mn	mn_MN
 moh_ca	moh_ca
 ms_my	ms_my
