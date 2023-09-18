@@ -4,6 +4,7 @@ ast_es	ast_ES
 az_az	az_az
 be_by	be_by
 bg_bg	bg_bg
+brb	brb_nl
 br_fr	br_FR
 bs_ba	bs_ba
 ca_es	ca
@@ -35,6 +36,7 @@ fa_ir	fa_IR
 fil_ph	fil_ph
 fi_fi	fi_fi
 fo_fo	fo_FO
+fra_de	vmf_de
 fr_ca	fr_ca
 fr_fr	fr_fr
 fy_nl	fy_NL
@@ -70,6 +72,7 @@ lv_lv	lv_LV
 mi_nz	mi_NZ
 mk_mk	mk_MK
 mn_mn	mn_MN
+moh_ca	moh_ca
 ms_my	ms_my
 mt_mt	mt_MT
 nds_de	nds_de
@@ -77,6 +80,7 @@ nl_be	nl_be
 nl_nl	nl_nl
 nn_no	nn_NO
 no_no	nb_NO
+nuk	nuk
 oc_fr	oc_FR
 oj_ca	oji
 ovd	ovd_se
@@ -100,11 +104,12 @@ ta_in	ta_in
 th_th	th_TH
 tlh_aa	tlh_aa
 tr_tr	tr_tr
+tt_ru	tt_ru
 tzl_tzl	tzl
-uk_ua	uk_UA
+uk_ua	uk_ua
 val_es	ca-val_ES
 vec_it	vec_it
-vi_vn	vi_VN
+vi_vn	vi_vn
 yo_ng	yo_ng
 zh_cn	zh_cn
 zh_tw	zh_tw

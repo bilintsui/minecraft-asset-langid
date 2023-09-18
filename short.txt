@@ -4,6 +4,7 @@ ast_es
 az_az
 be_by
 bg_bg
+brb
 br_fr
 bs_ba
 ca_es
@@ -35,6 +36,7 @@ fa_ir
 fil_ph
 fi_fi
 fo_fo
+fra_de
 fr_ca
 fr_fr
 fy_nl
@@ -70,6 +72,7 @@ lv_lv
 mi_nz
 mk_mk
 mn_mn
+moh_ca
 ms_my
 mt_mt
 nds_de
@@ -77,6 +80,7 @@ nl_be
 nl_nl
 nn_no
 no_no
+nuk
 oc_fr
 oj_ca
 ovd
@@ -100,6 +104,7 @@ ta_in
 th_th
 tlh_aa
 tr_tr
+tt_ru
 tzl_tzl
 uk_ua
 val_es
