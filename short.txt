@@ -80,6 +80,7 @@ mk_mk
 mn_mn
 ms_my
 mt_mt
+nah
 nds_de
 nl_be
 nl_nl
@@ -94,6 +95,7 @@ qya_aa
 ro_ro
 rpr
 ru_ru
+ry_ua
 se_no
 sk_sk
 sl_si
