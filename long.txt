@@ -44,7 +44,7 @@ fra_de	vmf_DE
 fr_ca	fra_CA
 fr_fr	fra_FR
 fur_it	fur_IT
-fy_nl	fy_NL
+fy_nl	fry_NL
 ga_ie	gle_IE
 gd_gb	gla_GB
 gl_es	glg_ES
@@ -94,7 +94,7 @@ qya_aa	qya
 ro_ro	ron_RO
 rpr	qpr
 ru_ru	rus_RU
-se_no	sme
+se_no	sme_NO
 sk_sk	slk_SK
 sl_si	slv_SI
 so_so	som_SO
@@ -114,7 +114,7 @@ uk_ua	ukr_UA
 val_es	cat_ES-VC
 vec_it	vec_IT
 vi_vn	vie_VN
-yi_de	yid
+yi_de	yid_IL
 yo_ng	yor_NG
 zh_cn	zho-Hans_CN
 zh_hk	zho-Hant_HK
