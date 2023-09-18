@@ -47,7 +47,6 @@ fy_nl	fy_NL
 ga_ie	ga_IE
 gd_gb	gd
 gl_es	gl_es
-got_de	got
 gv_im	gv_IM
 haw_us	haw
 he_il	he_il
@@ -55,7 +54,7 @@ hi_in	hi_in
 hr_hr	hr_hr
 hu_hu	hu_HU
 hy_am	hy_AM
-id_id	en_us
+id_id	id_id
 ig_ng	ig_ng
 io_en	io
 isv	isv
@@ -63,7 +62,6 @@ is_is	is_is
 it_it	it_it
 ja_jp	ja_jp
 jbo_en	jbo
-kab_kab	kab_dz
 ka_ge	ka_GE
 kk_kz	kk_kz
 kn_in	kn_in
@@ -76,10 +74,8 @@ li_li	li_nl
 lol_us	lol_aa
 lt_lt	lt_LT
 lv_lv	lv_LV
-mi_nz	mi_NZ
 mk_mk	mk_mk
 mn_mn	mn_MN
-moh_ca	moh_ca
 ms_my	ms_my
 mt_mt	mt_MT
 nds_de	nds_de
@@ -87,9 +83,7 @@ nl_be	nl_be
 nl_nl	nl_nl
 nn_no	nn_NO
 no_no	nb_no
-nuk	nuk
 oc_fr	oc_FR
-oj_ca	oji
 ovd	ovd_se
 pl_pl	pl_PL
 pt_br	pt_br
@@ -114,7 +108,6 @@ tlh_aa	tlh_AA
 tl_ph	tl_ph
 tr_tr	tr_tr
 tt_ru	tt_ru
-tzl_tzl	tzl
 uk_ua	uk_ua
 val_es	ca-val_ES
 vec_it	vec_it

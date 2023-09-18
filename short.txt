@@ -47,7 +47,6 @@ fy_nl
 ga_ie
 gd_gb
 gl_es
-got_de
 gv_im
 haw_us
 he_il
@@ -63,7 +62,6 @@ is_is
 it_it
 ja_jp
 jbo_en
-kab_kab
 ka_ge
 kk_kz
 kn_in
@@ -76,10 +74,8 @@ li_li
 lol_us
 lt_lt
 lv_lv
-mi_nz
 mk_mk
 mn_mn
-moh_ca
 ms_my
 mt_mt
 nds_de
@@ -87,9 +83,7 @@ nl_be
 nl_nl
 nn_no
 no_no
-nuk
 oc_fr
-oj_ca
 ovd
 pl_pl
 pt_br
@@ -114,7 +108,6 @@ tlh_aa
 tl_ph
 tr_tr
 tt_ru
-tzl_tzl
 uk_ua
 val_es
 vec_it
