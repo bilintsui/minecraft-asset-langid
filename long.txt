@@ -70,6 +70,7 @@ kw_gb	kw_GB
 la_la	la_va
 lb_lu	lb_lu
 li_li	li_nl
+lmo	lmo_it
 lol_us	lol_aa
 lt_lt	lt_LT
 lv_lv	lv_LV
@@ -105,6 +106,7 @@ ta_in	ta_in
 th_th	th_TH
 tlh_aa	tlh_AA
 tl_ph	tl_ph
+tok	tok
 tr_tr	tr_tr
 tt_ru	tt_ru
 uk_ua	uk_ua
