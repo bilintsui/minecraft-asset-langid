@@ -44,7 +44,7 @@ fra_de	vmf_DE
 fr_ca	fra_CA
 fr_fr	fra_FR
 fur_it	fur_IT
-fy_nl	fry_NL
+fy_nl	fy_NL
 ga_ie	gle_IE
 gd_gb	gla_GB
 gl_es	glg_ES
@@ -107,7 +107,7 @@ ta_in	tam_IN
 th_th	tha_TH
 tlh_aa	tlh
 tl_ph	tgl_PH
-tok	qtk
+tok	tok
 tr_tr	tur_TR
 tt_ru	tat_RU
 uk_ua	ukr_UA
@@ -117,5 +117,5 @@ vi_vn	vie_VN
 yi_de	yid
 yo_ng	yor_NG
 zh_cn	zho-Hans_CN
-zh_hk	yue-Hant_HK
+zh_hk	zho-Hant_HK
 zh_tw	zho-Hant_TW
