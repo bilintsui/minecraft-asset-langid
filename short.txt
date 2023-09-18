@@ -73,6 +73,7 @@ lb_lu
 li_li
 lmo
 lol_us
+lo_la
 lt_lt
 lv_lv
 lzh
@@ -96,6 +97,7 @@ ro_ro
 rpr
 ru_ru
 ry_ua
+sah_sah
 se_no
 sk_sk
 sl_si
