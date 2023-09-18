@@ -96,7 +96,7 @@ ru_ru	ru_ru
 se_no	sme
 sk_sk	sk_SK
 sl_si	sl_si
-so_so	so_SO
+so_so	so_so
 sq_al	sq_AL
 sr_sp	sr_rs
 sv_se	sv_se
