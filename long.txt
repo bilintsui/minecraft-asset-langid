@@ -1,5 +1,5 @@
 af_za	af_ZA
-ar_sa	ar
+ar_sa	إنجليزية أمريكية
 ast_es	ast
 az_az	az_az
 bar	bar_de
