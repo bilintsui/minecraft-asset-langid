@@ -17,7 +17,7 @@ de_at	de_at
 de_ch	de_ch
 de_de	de_de
 el_gr	el_gr
-enp	enp
+enp	en_p
 enws	en_ws
 en_au	en_au
 en_ca	en_ca
