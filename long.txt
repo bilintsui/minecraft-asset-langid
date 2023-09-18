@@ -34,7 +34,7 @@ es_es	spa_ES
 es_mx	spa_MX
 es_uy	spa_UY
 es_ve	spa_VE
-et_ee	ets_EE
+et_ee	est_EE
 eu_es	eus_ES
 fa_ir	fas_IR
 fil_ph	fil_PH
@@ -93,13 +93,13 @@ pt_pt	por_PT
 qya_aa	qya
 ro_ro	ron_RO
 rpr	qpr
-ru_ru	rus_RU
+ru_ru	ru_ru
 se_no	sme_NO
 sk_sk	slk_SK
 sl_si	slv_SI
 so_so	som_SO
 sq_al	sqi_AL
-sr_sp	srp_RS
+sr_sp	srp-Cyrl_RS
 sv_se	swe_SE
 sxu	sxu_DE
 szl	szl_PL
