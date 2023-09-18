@@ -26,7 +26,7 @@ en_nz	en_nz
 en_pt	en_7s
 en_ud	en_ud
 eo_uy	eo
-esan	an_es
+esan	and
 es_ar	es_ar
 es_cl	es_cl
 es_es	es_es
