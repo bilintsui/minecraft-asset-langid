@@ -72,7 +72,7 @@ ksh	ksh_de
 kw_gb	kw_GB
 la_la	la_va
 lb_lu	lb_lu
-li_li	li_NL
+li_li	li_nl
 lol_us	lol_aa
 lt_lt	lt_LT
 lv_lv	lv_LV
