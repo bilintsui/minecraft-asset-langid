@@ -56,7 +56,7 @@ hy_am	hy_AM
 id_id	en_us
 ig_ng	ig_ng
 io_en	io
-isv	isv
+isv	isv_sl
 is_is	is_is
 it_it	it_it
 ja_jp	ja_jp
