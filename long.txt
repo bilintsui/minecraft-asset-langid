@@ -86,7 +86,7 @@ nds_de	nds_de
 nl_be	nl_be
 nl_nl	nl_nl
 nn_no	nn_NO
-no_no	nb_NO
+no_no	nb_no
 nuk	nuk
 oc_fr	oc_FR
 oj_ca	oji
