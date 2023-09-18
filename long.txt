@@ -30,7 +30,7 @@ esan	an_es
 es_ar	es_ar
 es_cl	es_cl
 es_ec	es_ec
-es_es	es_ES
+es_es	es_es
 es_mx	es_mx
 es_uy	es_uy
 es_ve	es_ve
