@@ -90,6 +90,7 @@ pt_br
 pt_pt
 qya_aa
 ro_ro
+rpr
 ru_ru
 scn
 se_no
