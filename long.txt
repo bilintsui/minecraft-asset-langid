@@ -103,6 +103,7 @@ sk_sk	slk_SK
 sl_si	slv_SI
 so_so	som_SO
 sq_al	sqi_AL
+sr_cs	srp-Latn_RS
 sr_sp	srp-Cyrl_RS
 sv_se	swe_SE
 sxu	sxu_DE

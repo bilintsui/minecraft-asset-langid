@@ -103,6 +103,7 @@ sk_sk
 sl_si
 so_so
 sq_al
+sr_cs
 sr_sp
 sv_se
 sxu
