@@ -96,7 +96,7 @@ pt_pt	pt_pt
 qya_aa	qya_AA
 ro_ro	ro_ro
 ru_ru	ru_ru
-scn	scn
+scn	scn_it
 se_no	sme
 sk_sk	sk_SK
 sl_si	sl_si
