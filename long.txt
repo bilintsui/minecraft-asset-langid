@@ -9,7 +9,7 @@ bg_bg	bul_BG
 brb	qbr_NL
 br_fr	bre_FR
 bs_ba	bos_BA
-ca_es	cat_ES
+ca_es	cat_es
 cs_cz	ces_CZ
 cy_gb	cym_GB
 da_dk	dan_DK
