@@ -26,6 +26,7 @@ en_nz
 en_pt
 en_ud
 eo_uy
+esan
 es_ar
 es_cl
 es_es
@@ -56,6 +57,7 @@ hy_am
 id_id
 ig_ng
 io_en
+isv
 is_is
 it_it
 ja_jp
