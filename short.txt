@@ -119,3 +119,4 @@ yo_ng
 zh_cn
 zh_hk
 zh_tw
+zlm_arab

@@ -119,3 +119,4 @@ yo_ng	yor_NG
 zh_cn	zho-Hans_CN
 zh_hk	zho-Hant_HK
 zh_tw	zho-Hant_TW
+zlm_arab	zlm-Arab_MY
