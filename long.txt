@@ -9,7 +9,7 @@ bg_bg	bg_bg
 brb	brb_nl
 br_fr	br_FR
 bs_ba	bs_ba
-ca_es	ca
+ca_es	ca_es
 cs_cz	cs_CZ
 cy_gb	cy_gb
 da_dk	da_DK
