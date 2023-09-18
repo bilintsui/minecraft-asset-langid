@@ -35,7 +35,7 @@ es_mx	es_mx
 es_uy	es_uy
 es_ve	es_ve
 et_ee	et_ee
-eu_es	eu_ES
+eu_es	eu_es
 fa_ir	fa_IR
 fil_ph	fil_ph
 fi_fi	fi_fi
@@ -98,7 +98,7 @@ sl_si	sl_si
 so_so	so_SO
 sq_al	sq_AL
 sr_sp	sr_rs
-sv_se	sv_SE
+sv_se	sv_se
 swg	alg_de
 sxu	sxu_de
 szl	szl_pl
@@ -109,7 +109,7 @@ tl_ph	tl_ph
 tr_tr	tr_tr
 tt_ru	tt_ru
 uk_ua	uk_ua
-val_es	ca-val_ES
+val_es	ca-val_es
 vec_it	vec_it
 vi_vn	vi_vn
 yi_de	yi
