@@ -80,7 +80,7 @@ mk_mk	mkd_MK
 mn_mn	mon_MN
 ms_my	zlm_MY
 mt_mt	mlt_MT
-nah	nah_MX
+nah	nhe_MX
 nds_de	nds_DE
 nl_be	nld_BE
 nl_nl	nld_NL
