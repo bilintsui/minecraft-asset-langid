@@ -29,6 +29,7 @@ eo_uy
 esan
 es_ar
 es_cl
+es_ec
 es_es
 es_mx
 es_uy
