@@ -118,7 +118,7 @@ uk_ua	uk_ua
 val_es	ca-val_ES
 vec_it	vec_it
 vi_vn	vi_vn
-yi_de	yi_ny
+yi_de	yi
 yo_ng	yo_ng
 zh_cn	zh_cn
 zh_tw	zh_tw
