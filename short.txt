@@ -47,7 +47,6 @@ fy_nl
 ga_ie
 gd_gb
 gl_es
-gv_im
 haw_us
 he_il
 hi_in
@@ -74,6 +73,7 @@ li_li
 lol_us
 lt_lt
 lv_lv
+lzh
 mk_mk
 mn_mn
 ms_my
@@ -92,7 +92,6 @@ qya_aa
 ro_ro
 rpr
 ru_ru
-scn
 se_no
 sk_sk
 sl_si
@@ -100,7 +99,6 @@ so_so
 sq_al
 sr_sp
 sv_se
-swg
 sxu
 szl
 ta_in
