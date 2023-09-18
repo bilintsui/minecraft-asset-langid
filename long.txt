@@ -110,7 +110,7 @@ szl	szl_pl
 ta_in	ta_in
 th_th	th_TH
 tlh_aa	tlh_AA
-tl_ph	
+tl_ph	tl_ph
 tr_tr	tr_tr
 tt_ru	tt_ru
 tzl_tzl	tzl
