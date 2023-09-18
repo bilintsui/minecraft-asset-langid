@@ -94,6 +94,7 @@ pt_pt	pt_pt
 qya_aa	qya_AA
 ro_ro	ro_ro
 ru_ru	ru_ru
+scn	it_it
 se_no	sme
 sk_sk	sk_SK
 sl_si	sl_si
@@ -107,6 +108,7 @@ szl	szl_pl
 ta_in	ta_in
 th_th	th_TH
 tlh_aa	tlh_AA
+tl_ph	
 tr_tr	tr_tr
 tt_ru	tt_ru
 tzl_tzl	tzl
