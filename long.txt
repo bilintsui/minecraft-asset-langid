@@ -26,7 +26,7 @@ en_nz	eng_NZ
 en_pt	qpe
 en_ud	eng-Qabs_GB
 eo_uy	epo
-esan	spa_ES-AN
+esan	and_ES
 es_ar	spa_AR
 es_cl	spa_CL
 es_ec	spa_EC
