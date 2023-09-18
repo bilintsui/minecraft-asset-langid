@@ -55,7 +55,7 @@ hi_in	hi_in
 hr_hr	hr_hr
 hu_hu	hu_HU
 hy_am	hy_AM
-id_id	id_id
+id_id	en_us
 ig_ng	ig_ng
 io_en	io
 isv	isv
