@@ -119,6 +119,7 @@ uk_ua	ukr_UA
 val_es	cat_ES-VC
 vec_it	vec_IT
 vi_vn	vie_VN
+vp_vl	qpv
 yi_de	yid_IL
 yo_ng	yor_NG
 zh_cn	zho-Hans_CN

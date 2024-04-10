@@ -119,6 +119,7 @@ uk_ua
 val_es
 vec_it
 vi_vn
+vp_vl
 yi_de
 yo_ng
 zh_cn
