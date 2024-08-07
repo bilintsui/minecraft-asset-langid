@@ -5,6 +5,7 @@ az_az	aze_AZ
 bar	bar_DE
 ba_ru	bak_RU
 be_by	bel_BY
+be_latn	bel-Latn_BY
 bg_bg	bul_BG
 brb	qbr_NL
 br_fr	bre_FR
@@ -115,6 +116,7 @@ tl_ph	tgl_PH
 tok	tok
 tr_tr	tur_TR
 tt_ru	tat_RU
+tzo_mx	tzo_MX
 uk_ua	ukr_UA
 val_es	cat_ES-VC
 vec_it	vec_IT
