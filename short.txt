@@ -52,6 +52,7 @@ gl_es
 haw_us
 he_il
 hi_in
+hn_no
 hr_hr
 hu_hu
 hy_am

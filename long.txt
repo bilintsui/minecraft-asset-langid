@@ -52,6 +52,7 @@ gl_es	glg_ES
 haw_us	haw_US
 he_il	heb_IL
 hi_in	hin_IN
+hn_no	qho
 hr_hr	hrv_HR
 hu_hu	hun_HU
 hy_am	hye_AM
