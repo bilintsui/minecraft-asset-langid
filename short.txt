@@ -91,6 +91,7 @@ nn_no
 no_no
 oc_fr
 ovd
+pls
 pl_pl
 pt_br
 pt_pt
