@@ -70,6 +70,7 @@ kn_in	kan_IN
 ko_kr	kor_KR
 ksh	ksh_DE
 kw_gb	cor_GB
+ky_kg	kir_KG
 la_la	lat_VA
 lb_lu	ltz_LU
 li_li	lim_NL
