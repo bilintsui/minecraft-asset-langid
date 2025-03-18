@@ -3,7 +3,7 @@ ar_sa	ara_SA
 ast_es	ast_ES
 az_az	aze_AZ
 bar	bar_DE
-ba_ru	bak_RU
+ba_ru	bak_RU-BA
 be_by	bel_BY
 be_latn	bel-Latn_BY
 bg_bg	bul_BG
@@ -101,7 +101,7 @@ ro_ro	ron_RO
 rpr	qpr
 ru_ru	rus_RU
 ry_ua	rue_UA
-sah_sah	sah_RU
+sah_sah	sah_RU-SA
 se_no	sme_NO
 sk_sk	slk_SK
 sl_si	slv_SI
@@ -118,7 +118,7 @@ tlh_aa	tlh
 tl_ph	tgl_PH
 tok	tok
 tr_tr	tur_TR
-tt_ru	tat_RU
+tt_ru	tat_RU-TA
 tzo_mx	tzo_MX
 uk_ua	ukr_UA
 val_es	cat_ES-VC
