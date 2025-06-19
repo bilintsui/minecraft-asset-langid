@@ -96,6 +96,8 @@ pls	pls_MX
 pl_pl	pol_PL
 pt_br	por_BR
 pt_pt	por_PT
+qcb_es	qcb_ES
+qid	qid_ID
 qya_aa	qya
 ro_ro	ron_RO
 rpr	qpr
