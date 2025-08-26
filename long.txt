@@ -49,6 +49,7 @@ fy_nl	fry_NL
 ga_ie	gle_IE
 gd_gb	gla_GB
 gl_es	glg_ES
+hal_ua	qha_UA
 haw_us	haw_US
 he_il	heb_IL
 hi_in	hin_IN

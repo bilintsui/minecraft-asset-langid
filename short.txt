@@ -49,6 +49,7 @@ fy_nl
 ga_ie
 gd_gb
 gl_es
+hal_ua
 haw_us
 he_il
 hi_in
